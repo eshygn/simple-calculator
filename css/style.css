@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.calc-error {
+  color: red;
+}
+
+.calc-result {
+  color: green;
+}
